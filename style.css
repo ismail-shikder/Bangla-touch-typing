@@ -231,3 +231,8 @@ th { color: var(--muted); font-weight: 600; font-size: 14px; }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; scroll-behavior: auto !important; } }
 @media print { .topbar, .footer { display: none; } }
+
+.seo-content { max-width: 800px; margin: 2rem auto; padding: 0 1rem; line-height: 1.8; }
+.seo-content h2 { margin-top: 1.5rem; }
+
+
