@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ismail-shikder.github.io/Bangla-touch-typing/sitemap.xml
